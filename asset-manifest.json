@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sobia+portfolio/static/css/main.d47021fc.css",
+    "main.js": "/Sobia+portfolio/static/js/main.21eb7e5e.js",
+    "static/js/453.1407b060.chunk.js": "/Sobia+portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Sobia+portfolio/index.html",
+    "static/media/heavy-rain.svg": "/Sobia+portfolio/static/media/heavy-rain.93d10d1370c7ba5f69aa.svg",
+    "main.d47021fc.css.map": "/Sobia+portfolio/static/css/main.d47021fc.css.map",
+    "main.21eb7e5e.js.map": "/Sobia+portfolio/static/js/main.21eb7e5e.js.map",
+    "453.1407b060.chunk.js.map": "/Sobia+portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47021fc.css",
+    "static/js/main.21eb7e5e.js"
+  ]
+}
